@@ -1,8 +1,12 @@
 # Welcome to TechByteVault 🚀
 
+![logo](./Assets/TechByteVault.png)
+
+
 Unlock a treasure trove of tech knowledge! TechByteVault is your go-to repository for a diverse collection of IT insights, software solutions, hardware hacks, and programming prowess. Organized into convenient folders, here's what you'll find:
 
 - [Work in Progress]
+
 
 ## How to Use This Repository
 
