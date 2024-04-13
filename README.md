@@ -15,7 +15,7 @@ Welcome to TechByteVault, the premier destination for all things tech! Dive into
 Discover our comprehensive coverage of key topics such as:
 
 - **[Networking Fundamentals](./Topics/Networking/)**
-- **[Programming Resources](./Topics/Programming/)**
+- **[Programming Resources](<./Topics/Programming Resources>)**
 - **[Git Best Practices](./Topics/Git%20Resources/)**
 - **[Productivity Tips](./Topics/Productivity/)**
 
